@@ -14,5 +14,5 @@ class Post(models.Model):
 
     def __str__(self):
         return self.title
-
+#comentario nomas porque cambie la contra del admin y ocupo modificacion jaj
 # Create your models here.
